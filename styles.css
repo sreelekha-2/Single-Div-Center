@@ -1,0 +1,11 @@
+.single-div {
+  background-color: brown;
+  color: #ffffff;
+  padding: 20px;
+  height: 250px;
+  width: 250px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
